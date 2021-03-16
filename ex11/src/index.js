@@ -22,6 +22,6 @@ console.log(switchCase("a"));
 console.log(switchCase("b"));
 console.log(switchCase("c"));
 console.log(switchCase("d"));
-console.log(switchCase("4"));
+console.log(switchCase(4));
 
 module.exports = switchCase;
